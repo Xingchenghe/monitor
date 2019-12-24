@@ -1,0 +1,3 @@
+# Project exclude paths
+/monitor-gateway/target/
+/monitor-registry/target/
